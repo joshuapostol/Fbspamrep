@@ -8,4 +8,4 @@ $cd Fbspamrep
 
 $pip2 install -r requirements.txt
 
-$python2 Fbspamrep.py
+$python2 fbspamrep.py
